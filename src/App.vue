@@ -113,9 +113,6 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 
-  .pxf-logo {
-    top:-180px;
-  }
 }
 
 </style>
