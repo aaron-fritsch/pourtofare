@@ -18,6 +18,10 @@ import HelloWorld from "@/components/HelloWorld.vue";
   margin-top:120px;
 }
 
+main {
+  text-align: center;
+}
+
 header {
   line-height: 1.5;
   max-height: 100vh;
@@ -33,6 +37,12 @@ a,
   text-decoration: none;
   color: hsla(160, 100%, 37%, 1);
   transition: 0.4s;
+}
+
+body {
+  background-image:url('./assets/bg.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media (hover: hover) {
@@ -101,6 +111,10 @@ nav a:first-of-type {
 
     padding: 1rem 0;
     margin-top: 1rem;
+  }
+
+  .pxf-logo {
+    top:-180px;
   }
 }
 

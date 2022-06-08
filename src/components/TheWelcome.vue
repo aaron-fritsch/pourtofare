@@ -8,5 +8,5 @@ import SupportIcon from "./icons/IconSupport.vue";
 </script>
 
 <template>
-  <img src="../assets/pourtofare_transparent.png" class="center" style="width:320px; height:320px"/>
+  <img src="../assets/pourtofare_transparent.png" class="pxf-logo" style="width:320px; height:320px;"/>
 </template>
