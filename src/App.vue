@@ -15,7 +15,7 @@ import HelloWorld from "@/components/HelloWorld.vue";
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
-  margin-top:200px;
+  margin-top:120px;
 }
 
 header {
